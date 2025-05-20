@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+tensorflow       # or torch
+surprise
+lightfm
+faiss-cpu
+nltk
+spacy
+transformers
+requests
+flask            # or fastapi
+joblib
